@@ -13,8 +13,240 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Book-icon.png",
+      "PackagePath": "staticwebassets\\images\\images\\Book-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\BookHeart-Icon.png",
+      "PackagePath": "staticwebassets\\images\\images\\BookHeart-Icon.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\CadLivro-icon.png",
+      "PackagePath": "staticwebassets\\images\\images\\CadLivro-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\ListLivro-icon.png",
+      "PackagePath": "staticwebassets\\images\\images\\ListLivro-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\91zFLdx3DyL._SY466_.png",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\91zFLdx3DyL._SY466_.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\Foto1.png",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\Foto1.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\IMG_20240328_091555_MP.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\IMG_20240328_091555_MP.jpg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\b1a40d35-5b7c-4e45-9158-3c8c8b1e9506.webp",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\b1a40d35-5b7c-4e45-9158-3c8c8b1e9506.webp"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto01.png",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\foto01.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto02.png",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\foto02.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto03.png",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\foto03.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto04.png",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\foto04.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto05.png",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\foto05.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto06.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\foto06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\images.jpeg",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\livro01_.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\livro01_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\padrao.png",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\padrao.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\tabletmulher.png",
+      "PackagePath": "staticwebassets\\images\\images\\Livros\\tabletmulher.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\UserPlus-icon.svg",
+      "PackagePath": "staticwebassets\\images\\images\\UserPlus-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\arrow-left.png",
+      "PackagePath": "staticwebassets\\images\\images\\arrow-left.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\images\\images\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\banner-bk-mobile.png",
+      "PackagePath": "staticwebassets\\images\\images\\banner-bk-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\banner-mulher-livro.png",
+      "PackagePath": "staticwebassets\\images\\images\\banner-mulher-livro.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\banner-mulher-livro2.png",
+      "PackagePath": "staticwebassets\\images\\images\\banner-mulher-livro2.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\banner.png",
+      "PackagePath": "staticwebassets\\images\\images\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\bg-main.png",
+      "PackagePath": "staticwebassets\\images\\images\\bg-main.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\bg-main.svg",
+      "PackagePath": "staticwebassets\\images\\images\\bg-main.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\blue-heart.png",
+      "PackagePath": "staticwebassets\\images\\images\\blue-heart.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\book-solid.svg",
+      "PackagePath": "staticwebassets\\images\\images\\book-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\check-solid.svg",
+      "PackagePath": "staticwebassets\\images\\images\\check-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\config-icon.png",
+      "PackagePath": "staticwebassets\\images\\images\\config-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\detalhes.svg",
+      "PackagePath": "staticwebassets\\images\\images\\detalhes.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\editar.svg",
+      "PackagePath": "staticwebassets\\images\\images\\editar.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\em-formacao (1) 1.svg",
+      "PackagePath": "staticwebassets\\images\\images\\em-formacao (1) 1.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\facebook-icon.png",
+      "PackagePath": "staticwebassets\\images\\images\\facebook-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\header-logo-mobile.png",
+      "PackagePath": "staticwebassets\\images\\images\\header-logo-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\heart-solid 2.png",
+      "PackagePath": "staticwebassets\\images\\images\\heart-solid 2.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\heart-solid.svg",
+      "PackagePath": "staticwebassets\\images\\images\\heart-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\instagram-icon.png",
+      "PackagePath": "staticwebassets\\images\\images\\instagram-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\linkedin-icon.png",
+      "PackagePath": "staticwebassets\\images\\images\\linkedin-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\livro01_.jpg",
+      "PackagePath": "staticwebassets\\images\\images\\livro01_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\livro1.png",
+      "PackagePath": "staticwebassets\\images\\images\\livro1.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\livro2.png",
+      "PackagePath": "staticwebassets\\images\\images\\livro2.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\livro3.png",
+      "PackagePath": "staticwebassets\\images\\images\\livro3.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\livro4.png",
+      "PackagePath": "staticwebassets\\images\\images\\livro4.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\login-bk-desktop.png",
+      "PackagePath": "staticwebassets\\images\\images\\login-bk-desktop.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\logo-desktop.svg",
+      "PackagePath": "staticwebassets\\images\\images\\logo-desktop.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\logo-mobile.png",
+      "PackagePath": "staticwebassets\\images\\images\\logo-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\logo-recortado.png",
+      "PackagePath": "staticwebassets\\images\\images\\logo-recortado.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\logo-senai-vermelho.png",
+      "PackagePath": "staticwebassets\\images\\images\\logo-senai-vermelho.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\logout-icon.svg",
+      "PackagePath": "staticwebassets\\images\\images\\logout-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\menu-hamburger.png",
+      "PackagePath": "staticwebassets\\images\\images\\menu-hamburger.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\search-icon.svg",
+      "PackagePath": "staticwebassets\\images\\images\\search-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\tabletmulher.png.png",
+      "PackagePath": "staticwebassets\\images\\images\\tabletmulher.png.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\totalmente-gratis-fundo.png",
+      "PackagePath": "staticwebassets\\images\\images\\totalmente-gratis-fundo.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\totalmente-gratis.png",
+      "PackagePath": "staticwebassets\\images\\images\\totalmente-gratis.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\totalmente.png",
+      "PackagePath": "staticwebassets\\images\\images\\totalmente.png"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\white-heart.svg",
+      "PackagePath": "staticwebassets\\images\\images\\white-heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
     },
     {
       "Id": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\lib\\bootstrap\\LICENSE",
