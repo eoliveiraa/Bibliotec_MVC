@@ -56,7 +56,10 @@ namespace Bibliotec.Controllers
             else
             {
                 Console.WriteLine($"Eba voce entrou!");
-                return LocalRedirect("~/Livro");
+                HttpContext.Session.SetString("idzinho", usuarioBuscado.UsuarioID.ToString());
+                HttpContext.Session.SetString("Admin", usuarioBuscado.Admin.ToString());
+
+                return LocalRedirect("~/Login");
 
             }
 
