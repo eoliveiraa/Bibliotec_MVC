@@ -167,3 +167,9 @@ C:\Users\54891245808\Desktop\BibliotecMVC\Bibliotec\bin\Debug\net8.0\runtimes\wi
 C:\Users\54891245808\Desktop\BibliotecMVC\Bibliotec\obj\Debug\net8.0\Bibliotec.csproj.AssemblyReference.cache
 C:\Users\54891245808\Desktop\BibliotecMVC\Bibliotec\obj\Debug\net8.0\Bibliotec.sourcelink.json
 C:\Users\54891245808\Desktop\BibliotecMVC\Bibliotec\obj\Debug\net8.0\Bibliotec.csproj.Up2Date
+C:\Users\54891245808\Desktop\BibliotecMVC\Bibliotec\obj\Debug\net8.0\scopedcss\Views\Livro\Cadastro.cshtml.rz.scp.css
+C:\Users\54891245808\Desktop\BibliotecMVC\Bibliotec\obj\Debug\net8.0\scopedcss\Views\Livro\Detalhes.cshtml.rz.scp.css
+C:\Users\54891245808\Desktop\BibliotecMVC\Bibliotec\obj\Debug\net8.0\scopedcss\Views\Livro\Editar.cshtml.rz.scp.css
+C:\Users\54891245808\Desktop\BibliotecMVC\Bibliotec\obj\Debug\net8.0\scopedcss\Views\Livro\Index.cshtml.rz.scp.css
+C:\Users\54891245808\Desktop\BibliotecMVC\Bibliotec\obj\Debug\net8.0\scopedcss\Views\Login\Index.cshtml.rz.scp.css
+C:\Users\54891245808\Desktop\BibliotecMVC\Bibliotec\obj\Debug\net8.0\scopedcss\Views\Usuario\Index.cshtml.rz.scp.css

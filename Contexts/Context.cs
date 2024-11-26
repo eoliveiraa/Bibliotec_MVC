@@ -5,15 +5,15 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Bibliotec.Contexts
 {
-    public class Contexts : DbContext
+    public class Context : DbContext
     {
-        public Contexts()
+        public Context()
         {
 
         }
 
 
-        public Contexts(DbContextOptions<Contexts> options) : base(options)
+        public Context(DbContextOptions<Context> options) : base(options)
         {
 
         }

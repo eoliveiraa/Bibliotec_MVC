@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NrHPT5/pWBRis1TtGaI9LMFf79B0Lkpti3Spbh7kXbU=",
+  "Hash": "uZqfLlDzFArUU/lK+nhULkg5gMp0fy0tcex6DrVQdAI=",
   "Source": "Bibliotec",
   "BasePath": "_content/Bibliotec",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\arrow-left.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\arrow-left.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/arrow-left.png",
+      "RelativePath": "images/arrow-left.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\arrow-left.png"
+      "OriginalItemSpec": "wwwroot\\images\\arrow-left.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\arrow-left.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\arrow-left.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/arrow-left.svg",
+      "RelativePath": "images/arrow-left.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\arrow-left.svg"
+      "OriginalItemSpec": "wwwroot\\images\\arrow-left.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\banner-bk-mobile.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\banner-bk-mobile.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/banner-bk-mobile.png",
+      "RelativePath": "images/banner-bk-mobile.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\banner-bk-mobile.png"
+      "OriginalItemSpec": "wwwroot\\images\\banner-bk-mobile.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\banner-mulher-livro.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\banner-mulher-livro.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/banner-mulher-livro.png",
+      "RelativePath": "images/banner-mulher-livro.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\banner-mulher-livro.png"
+      "OriginalItemSpec": "wwwroot\\images\\banner-mulher-livro.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\banner-mulher-livro2.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\banner-mulher-livro2.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/banner-mulher-livro2.png",
+      "RelativePath": "images/banner-mulher-livro2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\banner-mulher-livro2.png"
+      "OriginalItemSpec": "wwwroot\\images\\banner-mulher-livro2.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\banner.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\banner.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/banner.png",
+      "RelativePath": "images/banner.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\banner.png"
+      "OriginalItemSpec": "wwwroot\\images\\banner.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\bg-main.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\bg-main.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/bg-main.png",
+      "RelativePath": "images/bg-main.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,15 +223,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\bg-main.png"
+      "OriginalItemSpec": "wwwroot\\images\\bg-main.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\bg-main.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\bg-main.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/bg-main.svg",
+      "RelativePath": "images/bg-main.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +242,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\bg-main.svg"
+      "OriginalItemSpec": "wwwroot\\images\\bg-main.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\blue-heart.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\blue-heart.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/blue-heart.png",
+      "RelativePath": "images/blue-heart.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,15 +261,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\blue-heart.png"
+      "OriginalItemSpec": "wwwroot\\images\\blue-heart.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Book-icon.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Book-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Book-icon.png",
+      "RelativePath": "images/Book-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,15 +280,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Book-icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\Book-icon.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\book-solid.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\book-solid.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/book-solid.svg",
+      "RelativePath": "images/book-solid.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,15 +299,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\book-solid.svg"
+      "OriginalItemSpec": "wwwroot\\images\\book-solid.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\BookHeart-Icon.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\BookHeart-Icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/BookHeart-Icon.png",
+      "RelativePath": "images/BookHeart-Icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -318,15 +318,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\BookHeart-Icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\BookHeart-Icon.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\CadLivro-icon.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\CadLivro-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/CadLivro-icon.png",
+      "RelativePath": "images/CadLivro-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\CadLivro-icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\CadLivro-icon.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\check-solid.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\check-solid.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/check-solid.svg",
+      "RelativePath": "images/check-solid.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,15 +356,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\check-solid.svg"
+      "OriginalItemSpec": "wwwroot\\images\\check-solid.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\config-icon.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\config-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/config-icon.png",
+      "RelativePath": "images/config-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -375,15 +375,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\config-icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\config-icon.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\detalhes.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\detalhes.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/detalhes.svg",
+      "RelativePath": "images/detalhes.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -394,15 +394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\detalhes.svg"
+      "OriginalItemSpec": "wwwroot\\images\\detalhes.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\editar.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\editar.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/editar.svg",
+      "RelativePath": "images/editar.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -413,15 +413,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\editar.svg"
+      "OriginalItemSpec": "wwwroot\\images\\editar.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\em-formacao (1) 1.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\em-formacao (1) 1.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/em-formacao (1) 1.svg",
+      "RelativePath": "images/em-formacao (1) 1.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -432,15 +432,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\em-formacao (1) 1.svg"
+      "OriginalItemSpec": "wwwroot\\images\\em-formacao (1) 1.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\facebook-icon.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\facebook-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/facebook-icon.png",
+      "RelativePath": "images/facebook-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -451,15 +451,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\facebook-icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\facebook-icon.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\header-logo-mobile.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\header-logo-mobile.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/header-logo-mobile.png",
+      "RelativePath": "images/header-logo-mobile.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -470,15 +470,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\header-logo-mobile.png"
+      "OriginalItemSpec": "wwwroot\\images\\header-logo-mobile.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\heart-solid 2.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\heart-solid 2.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/heart-solid 2.png",
+      "RelativePath": "images/heart-solid 2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -489,15 +489,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\heart-solid 2.png"
+      "OriginalItemSpec": "wwwroot\\images\\heart-solid 2.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\heart-solid.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\heart-solid.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/heart-solid.svg",
+      "RelativePath": "images/heart-solid.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -508,15 +508,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\heart-solid.svg"
+      "OriginalItemSpec": "wwwroot\\images\\heart-solid.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\instagram-icon.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\instagram-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/instagram-icon.png",
+      "RelativePath": "images/instagram-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -527,15 +527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\instagram-icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\instagram-icon.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\linkedin-icon.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\linkedin-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/linkedin-icon.png",
+      "RelativePath": "images/linkedin-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -546,15 +546,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\linkedin-icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\linkedin-icon.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\ListLivro-icon.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\ListLivro-icon.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/ListLivro-icon.png",
+      "RelativePath": "images/ListLivro-icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -565,15 +565,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\ListLivro-icon.png"
+      "OriginalItemSpec": "wwwroot\\images\\ListLivro-icon.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\livro01_.jpg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\livro01_.jpg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/livro01_.jpg",
+      "RelativePath": "images/livro01_.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -584,15 +584,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\livro01_.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\livro01_.jpg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\livro1.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\livro1.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/livro1.png",
+      "RelativePath": "images/livro1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -603,15 +603,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\livro1.png"
+      "OriginalItemSpec": "wwwroot\\images\\livro1.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\livro2.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\livro2.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/livro2.png",
+      "RelativePath": "images/livro2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -622,15 +622,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\livro2.png"
+      "OriginalItemSpec": "wwwroot\\images\\livro2.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\livro3.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\livro3.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/livro3.png",
+      "RelativePath": "images/livro3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -641,15 +641,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\livro3.png"
+      "OriginalItemSpec": "wwwroot\\images\\livro3.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\livro4.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\livro4.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/livro4.png",
+      "RelativePath": "images/livro4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\livro4.png"
+      "OriginalItemSpec": "wwwroot\\images\\livro4.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\91zFLdx3DyL._SY466_.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\91zFLdx3DyL._SY466_.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/91zFLdx3DyL._SY466_.png",
+      "RelativePath": "images/Livros/91zFLdx3DyL._SY466_.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -679,15 +679,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\91zFLdx3DyL._SY466_.png"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\91zFLdx3DyL._SY466_.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\b1a40d35-5b7c-4e45-9158-3c8c8b1e9506.webp",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\b1a40d35-5b7c-4e45-9158-3c8c8b1e9506.webp",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/b1a40d35-5b7c-4e45-9158-3c8c8b1e9506.webp",
+      "RelativePath": "images/Livros/b1a40d35-5b7c-4e45-9158-3c8c8b1e9506.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -698,15 +698,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\b1a40d35-5b7c-4e45-9158-3c8c8b1e9506.webp"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\b1a40d35-5b7c-4e45-9158-3c8c8b1e9506.webp"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto01.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\foto01.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/foto01.png",
+      "RelativePath": "images/Livros/foto01.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -717,15 +717,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\foto01.png"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\foto01.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto02.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\foto02.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/foto02.png",
+      "RelativePath": "images/Livros/foto02.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -736,15 +736,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\foto02.png"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\foto02.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto03.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\foto03.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/foto03.png",
+      "RelativePath": "images/Livros/foto03.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -755,15 +755,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\foto03.png"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\foto03.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto04.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\foto04.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/foto04.png",
+      "RelativePath": "images/Livros/foto04.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -774,15 +774,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\foto04.png"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\foto04.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto05.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\foto05.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/foto05.png",
+      "RelativePath": "images/Livros/foto05.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -793,15 +793,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\foto05.png"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\foto05.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\foto06.jpg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\foto06.jpg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/foto06.jpg",
+      "RelativePath": "images/Livros/foto06.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -812,15 +812,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\foto06.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\foto06.jpg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\Foto1.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\Foto1.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/Foto1.png",
+      "RelativePath": "images/Livros/Foto1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -831,15 +831,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\Foto1.png"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\Foto1.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\images.jpeg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\images.jpeg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/images.jpeg",
+      "RelativePath": "images/Livros/images.jpeg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -850,15 +850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\images.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\images.jpeg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\IMG_20240328_091555_MP.jpg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\IMG_20240328_091555_MP.jpg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/IMG_20240328_091555_MP.jpg",
+      "RelativePath": "images/Livros/IMG_20240328_091555_MP.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -869,15 +869,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\IMG_20240328_091555_MP.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\IMG_20240328_091555_MP.jpg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\livro01_.jpg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\livro01_.jpg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/livro01_.jpg",
+      "RelativePath": "images/Livros/livro01_.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -888,15 +888,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\livro01_.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\livro01_.jpg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\padrao.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\padrao.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/padrao.png",
+      "RelativePath": "images/Livros/padrao.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -907,15 +907,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\padrao.png"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\padrao.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\Livros\\tabletmulher.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\Livros\\tabletmulher.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/Livros/tabletmulher.png",
+      "RelativePath": "images/Livros/tabletmulher.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -926,15 +926,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\Livros\\tabletmulher.png"
+      "OriginalItemSpec": "wwwroot\\images\\Livros\\tabletmulher.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\login-bk-desktop.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\login-bk-desktop.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/login-bk-desktop.png",
+      "RelativePath": "images/login-bk-desktop.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -945,15 +945,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\login-bk-desktop.png"
+      "OriginalItemSpec": "wwwroot\\images\\login-bk-desktop.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\logo-desktop.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\logo-desktop.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/logo-desktop.svg",
+      "RelativePath": "images/logo-desktop.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -964,15 +964,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\logo-desktop.svg"
+      "OriginalItemSpec": "wwwroot\\images\\logo-desktop.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\logo-mobile.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\logo-mobile.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/logo-mobile.png",
+      "RelativePath": "images/logo-mobile.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\logo-mobile.png"
+      "OriginalItemSpec": "wwwroot\\images\\logo-mobile.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\logo-recortado.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\logo-recortado.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/logo-recortado.png",
+      "RelativePath": "images/logo-recortado.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1002,15 +1002,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\logo-recortado.png"
+      "OriginalItemSpec": "wwwroot\\images\\logo-recortado.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\logo-senai-vermelho.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\logo-senai-vermelho.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/logo-senai-vermelho.png",
+      "RelativePath": "images/logo-senai-vermelho.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1021,15 +1021,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\logo-senai-vermelho.png"
+      "OriginalItemSpec": "wwwroot\\images\\logo-senai-vermelho.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\logout-icon.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\logout-icon.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/logout-icon.svg",
+      "RelativePath": "images/logout-icon.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1040,15 +1040,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\logout-icon.svg"
+      "OriginalItemSpec": "wwwroot\\images\\logout-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\menu-hamburger.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\menu-hamburger.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/menu-hamburger.png",
+      "RelativePath": "images/menu-hamburger.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1059,15 +1059,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\menu-hamburger.png"
+      "OriginalItemSpec": "wwwroot\\images\\menu-hamburger.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\search-icon.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\search-icon.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/search-icon.svg",
+      "RelativePath": "images/search-icon.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1078,15 +1078,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\search-icon.svg"
+      "OriginalItemSpec": "wwwroot\\images\\search-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\tabletmulher.png.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\tabletmulher.png.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/tabletmulher.png.png",
+      "RelativePath": "images/tabletmulher.png.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1097,15 +1097,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\tabletmulher.png.png"
+      "OriginalItemSpec": "wwwroot\\images\\tabletmulher.png.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\totalmente-gratis-fundo.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\totalmente-gratis-fundo.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/totalmente-gratis-fundo.png",
+      "RelativePath": "images/totalmente-gratis-fundo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1116,15 +1116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\totalmente-gratis-fundo.png"
+      "OriginalItemSpec": "wwwroot\\images\\totalmente-gratis-fundo.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\totalmente-gratis.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\totalmente-gratis.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/totalmente-gratis.png",
+      "RelativePath": "images/totalmente-gratis.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1135,15 +1135,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\totalmente-gratis.png"
+      "OriginalItemSpec": "wwwroot\\images\\totalmente-gratis.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\totalmente.png",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\totalmente.png",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/totalmente.png",
+      "RelativePath": "images/totalmente.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1154,15 +1154,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\totalmente.png"
+      "OriginalItemSpec": "wwwroot\\images\\totalmente.png"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\UserPlus-icon.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\UserPlus-icon.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/UserPlus-icon.svg",
+      "RelativePath": "images/UserPlus-icon.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1173,15 +1173,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\UserPlus-icon.svg"
+      "OriginalItemSpec": "wwwroot\\images\\UserPlus-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\images\\white-heart.svg",
+      "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\images\\white-heart.svg",
       "SourceId": "Bibliotec",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\",
       "BasePath": "_content/Bibliotec",
-      "RelativePath": "images/images/white-heart.svg",
+      "RelativePath": "images/white-heart.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1192,7 +1192,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\images\\white-heart.svg"
+      "OriginalItemSpec": "wwwroot\\images\\white-heart.svg"
     },
     {
       "Identity": "C:\\Users\\54891245808\\Desktop\\BibliotecMVC\\Bibliotec\\wwwroot\\js\\index.js",
